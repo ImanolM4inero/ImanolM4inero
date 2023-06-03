@@ -8,7 +8,7 @@
 
 <h4 aling="left">Mis otras redes son:</h4>
 <p aling="left">
-<a href="https://linkedin.com/in/iñakirecabarren" target="blank">🔗</a>
+<a href="https://linkedin.com/in/iñakirecabarren" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /> </a>
 </p>
 
 <h5 aling="left">Herramientas y lenguajes</h5>
