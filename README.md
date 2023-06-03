@@ -2,7 +2,7 @@
 
 <h3 aling="center">Soy un apasionado por la ciberseguridad.</h3>
 
-<p> 💻 Estudiante universitario, me falta poco tiempo para finalizar la carrera y desde hace un tiempo que me estoy centando en aprender más sobre ciberseguridad ya que es un universo que me tiene cautivado 🛡️<p/>
+<p> 💻 Estudiante universitario, me falta poco tiempo para finalizar la carrera y desde hace un tiempo que me estoy centrando en estudiar y aprender más sobre ciberseguridad ya que es un universo que me tiene muy cautivado 🛡️<p/>
 
 - 📫 En donde contactarme **imanolmainero@gmail.com**
 
