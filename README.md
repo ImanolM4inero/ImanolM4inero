@@ -4,8 +4,6 @@
 
 <p> 💻 University student, I have little time left to finish my degree, for some time now I have been focusing on studying and learning more about cybersecurity since it is a universe that has me very captivated. 🛡️<p/>
 
-- 📫 How to find me **imanolmainero@gmail.com**
-
 <h4 aling="left">My Linkedin:</h4>
 <p aling="left">
 <a href="https://linkedin.com/in/iñakirecabarren" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /> </a>
